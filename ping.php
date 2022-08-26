@@ -76,13 +76,7 @@ $iplist = array
     array("192.168.1.18","kail linux"),
     array("8.8.8.8","dns-google "),
     array("192.168.1.3","mobile"),
-    array("osama.com","test"),
-    array("192.168.1.4","salma"),
-    array("192.168.1.100","nana"),
-    array("192.168.1.5","malak"),
-    array("192.168.1.10","yahia"),
-    array("192.168.1.19","khalto")
-
+    array("osama.com","test")
 
 );
 
